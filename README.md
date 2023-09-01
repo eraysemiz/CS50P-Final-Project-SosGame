@@ -1,7 +1,7 @@
 
 # __SOS Game__
 
-Video Demo: 
+Video Demo: https://www.youtube.com/watch?v=6_8hQPsmVf0
 
 ## __Definition__
    This is a Python implementation of the classic SOS game, where players take turns placing the letters 'S' and 'O' on a grid, aiming to create sequences of "SOS" either vertically, horizontally, or diagonally.
